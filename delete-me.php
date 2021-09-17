@@ -1,12 +1,11 @@
 <?php
 /*
-Plugin Name: Delete Me
-Description: Allow users with specific WordPress roles to delete themselves from the <code>Your Profile</code> page or anywhere Shortcodes can be used using the Shortcode <code>[plugin_delete_me /]</code>. Settings for this plugin are found on the <code>Settings &rarr; Delete Me</code> subpanel. Multisite and Network Activation supported.
+Plugin Name: Appthemes Delete Me
+Description: Forked from WP Delete Me - Allow users with specific WordPress roles to delete themselves from the <code>Your Profile</code> page or anywhere Shortcodes can be used using the Shortcode <code>[plugin_delete_me /]</code>. Settings for this plugin are found on the <code>Settings &rarr; Delete Me</code> subpanel. Multisite and Network Activation supported.
 Version: 2.8
-Author: Clinton Caldwell
+Author: Shane Watters
 Text Domain: delete-me
 Domain Path: /languages
-Author URI: https://profiles.wordpress.org/cmc3215/
 License: GPL2 http://www.gnu.org/licenses/gpl-2.0.html
 */
 
